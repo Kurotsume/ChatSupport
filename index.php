@@ -5,7 +5,7 @@
     <!--Loading Less compiled style.css -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script src="http://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
-    <script src="css/style.css" type="text/css"></script>
+    <link href="css/style.css" rel="stylesheet">
           
     </style>   
         

@@ -1,0 +1,1 @@
+Chat box created with HTML/CSS/LESS and Jquery

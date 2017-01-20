@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script src="http://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
     <link href="css/style.css" rel="stylesheet">
+    <link rel="stylesheet" media="screen and (max-width:800px)" href="css/under500.css">
           
     </style>   
         
@@ -17,12 +18,12 @@
         <div class="wrapper">
         
             <div id="header">
-            
+                <h1>Chat</h1>
             </div>
             
             <div id="container">
-            
-            
+                
+                <!--<input type="textbox" name="textline" value="">-->
             
             </div> 
             

@@ -14,7 +14,9 @@ module.exports = function(grunt){
                 
                 files: {
                     // target file : less source file 
-                    "css/style.css" : "less/**/*.less"
+                    //"css/style.css" : "less/**/*.less" 
+                    "css/style.css" : "less/style.less",                   
+                    "css/under500.css" : "less/under500.less"
                 }
             
             }
